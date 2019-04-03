@@ -2,7 +2,7 @@
 title: "edi3 Notary Service 1.0 Specification"
 specID: "notary/1"
 status: "![raw](http://rfc.unprotocols.org/spec:2/COSS/raw.svg)"
-editors: "[Chris Gough](https://github.com/monkeypants)"
+editors: "[Chris Gough](mailto:christopher.d.gough@gmail.com)"
 contributors: 
 ---
 
