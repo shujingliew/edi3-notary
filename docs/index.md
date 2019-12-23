@@ -123,12 +123,12 @@ Just paste the content of the schema document on the left panel and enter the do
 
 An example of a passing validation:
 
-![docs](json_success.PNG)
+![docs](json_success.png)
 
 An example of a failed validation:
 
 
-![docs](json_failed.PNG)
+![docs](json_failed.png)
 
 
 # Basic Concept
