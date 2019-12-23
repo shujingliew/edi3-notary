@@ -27,7 +27,7 @@ Before digital transformation transpires, trade documents require a lot of admin
 
 Trade has grown remarkably over the last century with the trade world having numerous isolated ecosystems. Such system isolations resulted in individual systems not being able to verify trade documents from other ecosystems.
 
-Lack of trust in the data is another major contributing factor that hinders global trade facilitation and the move to true digitalization of the supply chain. Paperless initiatives are yet to be widely adopted. For example, in sea freight, Bill of Lading is still made up of three originals and require six copies and digitized formats are still unacceptable for many parties.<sup id="footnote1">[1](#f1)</sup> 
+Lack of trust in the data is another major contributing factor that hinders global trade facilitation and the move to true digitalization of the supply chain. Paperless initiatives are yet to be widely adopted. For example, in sea freight, Bill of Lading is still made up of three originals and require six copies and digitized formats are still unacceptable for many parties.<sup id="footnote1">[[1]](#f1)</sup> 
 
 There has always been an inherent lack of trust between buyers, sellers, supply chain participants, agencies and governments. Due to this layer of trust, work processes such as document verification is still heavily reliant on the use of papers.[2]
 
@@ -510,7 +510,7 @@ DNS Identity Proof - https://blog.gds-gov.tech/opencerts-2-0-decentralised-issue
 
 W3C VC - https://www.w3.org/TR/vc-data-model/
 
-<sup id="footnote1">[1]</sup> [↩](#f1)
+<sup id="f1">[1]</sup> [↩](#footnote1)
 [UN/CEFACT White Paper on Data Pipeline](https://www.unece.org/fileadmin/DAM/cefact/GuidanceMaterials/WhitePaperDataPipeline_Eng.pdf) 
 
 [2] Extracted from White Paper on Technical Application of Blockchain to UN/CEFACT deliverables by UN/CEFACT
