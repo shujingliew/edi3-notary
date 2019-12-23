@@ -510,8 +510,8 @@ DNS Identity Proof - https://blog.gds-gov.tech/opencerts-2-0-decentralised-issue
 
 W3C VC - https://www.w3.org/TR/vc-data-model/
 
-<sup id="footnote1">[1]</sup>
-[UN/CEFACT White Paper on Data Pipeline](https://www.unece.org/fileadmin/DAM/cefact/GuidanceMaterials/WhitePaperDataPipeline_Eng.pdf) [↩](#f1)
+<sup id="footnote1">[1]</sup> [↩](#f1)
+[UN/CEFACT White Paper on Data Pipeline](https://www.unece.org/fileadmin/DAM/cefact/GuidanceMaterials/WhitePaperDataPipeline_Eng.pdf) 
 
 [2] Extracted from White Paper on Technical Application of Blockchain to UN/CEFACT deliverables by UN/CEFACT
 
