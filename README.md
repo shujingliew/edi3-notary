@@ -1,4 +1,4 @@
-# edi3 Notary Service Specification
+# EDI3 Notary Service Specification
 
  * [Version 1.0](/docs/1.0/index.md)
  
