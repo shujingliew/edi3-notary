@@ -27,7 +27,7 @@ Before digital transformation transpires, trade documents require a lot of admin
 
 Trade has grown remarkably over the last century with the trade world having numerous isolated ecosystems. Such system isolations resulted in individual systems not being able to verify trade documents from other ecosystems.
 
-Lack of trust in the data is another major contributing factor that hinders global trade facilitation and the move to true digitalization of the supply chain. Paperless initiatives are yet to be widely adopted. For example, in sea freight, Bill of Lading is still made up of three originals and require six copies and digitized formats are still unacceptable for many parties.[1]
+Lack of trust in the data is another major contributing factor that hinders global trade facilitation and the move to true digitalization of the supply chain. Paperless initiatives are yet to be widely adopted. For example, in sea freight, Bill of Lading is still made up of three originals and require six copies and digitized formats are still unacceptable for many parties.<sup id="a1">[1](#f1)</sup> 
 
 There has always been an inherent lack of trust between buyers, sellers, supply chain participants, agencies and governments. Due to this layer of trust, work processes such as document verification is still heavily reliant on the use of papers.[2]
 
@@ -502,7 +502,20 @@ const action = {
  
 # References
 
-_various reference stuff that readers might need to know_
+OA Schema V3 - https://github.com/Open-Attestation/open-attestation/blob/56231b83b6bd0b6bb164bdd830fc02886b578ec1/src/schema/3.0/schema.json
+
+Verifier Manager Model - https://github.com/Open-Attestation/oa-verify/pull/74
+
+DNS Identity Proof - https://blog.gds-gov.tech/opencerts-2-0-decentralised-issuer-identity-verification-fb7e2cae8295
+
+W3C VC - https://www.w3.org/TR/vc-data-model/
+
+<b id="f1">1</b> Footnote content here. [↩](#a1)Extracted from White Paper on Data Pipeline by UN/CEFACT, [Link] (https://www.unece.org/fileadmin/DAM/cefact/GuidanceMaterials/WhitePaperDataPipeline_Eng.pdf) 
+
+[2] Extracted from White Paper on Technical Application of Blockchain to UN/CEFACT deliverables by UN/CEFACT
+
+[3] Extracted from ECE/TRADE/C/CEFACT/2019/8
+
 
 ## Intellectual Property
 
