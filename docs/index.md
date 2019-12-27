@@ -138,7 +138,7 @@ The purpose of the verifier is to provide a generic verification method to verif
 
 ### Overview of the verification methods
 
-<diagram>
+![docs](architecture.png)
 
 A verifier is made up of multiple `Verification Methods`. In the diagram above, `OpenAttestationDnsTxt, OpenAttestationEthereumDocumentStoreIssued` and `OpenAttestationHash` are examples of `Verification Methods` provided.
 
