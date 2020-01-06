@@ -23,7 +23,7 @@ The use of such technology offers several advantages.
 
 # Introduction
 
-Before digital transformation transpires, trade documents require a lot of administrative burden resulting in an increase of time and cost of manual verification. With the emerging digital technologies in the trade world, it has changed the way we work and helped to improve operational efficiency across supply chains.
+Before digital transformation transpired, trade documents require a lot of administrative burden resulting in an increase in time and cost of manual verification. With the emergence of digital technologies in the trade world, it has changed the way we work and helped to improve operational efficiency across supply chains.
 
 Trade has grown remarkably over the last century with the trade world having numerous isolated ecosystems. Such system isolations resulted in individual systems not being able to verify trade documents from other ecosystems.
 
